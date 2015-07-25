@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Introduction
 
 This second programming assignment will require you to write an R
@@ -103,3 +104,7 @@ In order to complete this assignment, you must do the following:
 ### Grading
 
 This assignment will be graded via peer assessment.
+=======
+# datasciencecoursera
+my data science repo
+>>>>>>> dab12158bba8026f075baf3453c617e344aacc52
